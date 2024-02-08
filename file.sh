@@ -1,3 +1,2 @@
 #!/bin/bash
-
-mkdir kaizen123
+echo "Hello Nargiza
